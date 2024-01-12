@@ -1,0 +1,28 @@
+.panelHome {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.containerTable{
+    display: flex;
+    margin-top: 10px;
+}
+
+.paneRight {
+    flex: 2;
+    background-color: rgba(221, 202, 221, 0.1);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.cartTitle{
+    font-size: 1.4rem;
+    margin-bottom: 10px;
+}
+
+.panelLeftRow{
+    margin-bottom: 40px;
+}
+
